@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Roll } from "../../pages/Home/Home";
+import { Roll } from "../../views/home";
 
 export function RollItem(type, price, image) {
   this.type = type;
